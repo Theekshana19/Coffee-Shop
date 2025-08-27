@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="text1">Coffee</string>
+    <string name="text2">SignIn</string>
+    <string name="text3">SignUp</string>
+    <string name="label">Successfully Registered</string>
+    <string name="text5">Coffee so good your taste buds will love it"</string>
+    <string name="hint1">Email</string>
+    <string name="hint2">Password</string>
+    <string name="hint3">Name</string>
+    <string name="hint4">Phone</string>
+    <string name="hint5">Confirm Password</string>
+    <string name="button1">Get Started</string>
+    <string name="button2">Login</string>
+    <string name="button3">Do you want to register?</string>
+    <string name="button4">Register?</string>
+    <string name="button5">Done</string>
+    <string name="button6">Go</string>
+    <string name="button7">Pay</string>
+</resources>
